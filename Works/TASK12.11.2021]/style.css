@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+}
+#courses-about{
+    
+    width: 1910px;
+    height: 590px;
+    display: flex;
+    background-color:rgba(235,235,242,0.7);
+}
+.courses-about-container{
+   
+    width: 1160px;
+    height: 380px;
+    margin: auto;
+  
+    
+}
+.courses-about-container-row{
+
+    display: flex;
+    justify-content: space-between;
+}
+.courses-about-container-header h2{
+   font-size:50px;
+   font-family: sans-serif;
+   text-align: center;
+}
+
+
+
+.courses-about-container-item{
+    width: 365px;
+    height: 250px;
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 5px;
+}
+.courses-about-container-item i{
+    font-size: 50px;
+    margin: 20px;
+    background: rgba(0,175,146,0.1);
+    border-radius: 5px;
+}
+.courses-about-container-item h1{
+    margin: 20px;
+    font-family: sans-serif;
+}
+.courses-about-container-item  p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #8f8fa3;
+    font-weight: 400;
+    margin: 15px;
+}
+    
+    

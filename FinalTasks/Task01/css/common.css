@@ -1,0 +1,38 @@
+.height-50px{
+    height: 50px;
+}
+.flex{
+    display: flex;
+}
+.center{
+    align-items: center;
+}
+.white{
+    color: #fff;
+}
+.head_font{
+    font-weight: 600;
+    font-size: 14px;
+}
+.btn-style{
+    background: #f26b31;
+    border-radius: 50%;
+}
+.padding31{
+    padding: 31px;
+}
+.d-inlinebl{
+    display: inline-block;
+}
+.color-orange-bck{
+    background: #f26b31;
+}
+.section-title-h1-os-op-ob{
+    line-height: 45px;
+    margin-bottom: 10px;
+    margin-top: 0;
+    font-size: 45px;
+}
+.with-all-60{
+    width: 60px;
+}

@@ -1,0 +1,92 @@
+body {
+    margin: 0px auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lightbox {
+    max-width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.lightbox-item {
+    height: 200px;
+}
+
+.lightbox-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    filter: grayscale();
+    transition: 1s;
+    
+}
+.lightbox-item img:hover{
+    filter: grayscale(0);
+    transform: scale(1.1);
+}
+
+.modal {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .7);
+    z-index: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+.modal-inner {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    
+}
+
+.modal-inner img {
+    width: inherit;
+    border: 5px solid white;   
+}
+
+.modal-info {
+    width: 80%;
+    padding: 15px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.close-btn {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+}
+
+.modal-controls {
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    transform: translate(0px, -50%);
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 3em;
+    padding: 0px 40px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    display: inline-block;
+}
+#learning-steps{
+    border: 1px solid red;
+    width: 1907px;
+    height: 725px;
+    display: flex;
+    display: inline-block;
+}
+.learning-steps-container{
+    border: 1px solid red;
+    width: 1300px;
+    height: 570px;
+    margin: auto;
+}
+.learning-steps-info{
+    border: 1px solid  green;
+    
+}
+.item-text {
+    margin-left: 70px;
+}
+
+.item-numbers h1{
+    margin-left: 30px;
+    margin-bottom: 20px;
+     font-size: 22px;
+     line-height: 20px;
+     color: #1089ff;
+     font-weight: 600
+    
+}

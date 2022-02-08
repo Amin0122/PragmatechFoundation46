@@ -1,0 +1,21 @@
+.container{
+    border: 1px solid  red;
+    width: 1860px;
+    height: 750px;
+}
+    .portofolio{
+  border: 1px  solid  green;
+ width: 1140px;
+height: 490px;
+ margin: 100px  350px;
+ display: flex;
+ justify-content: space-between;
+
+}
+.item{
+    border: 1px solid blue;
+}
+.mid-item{
+    border: 1px solid  black;
+    
+}
