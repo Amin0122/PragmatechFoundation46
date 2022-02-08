@@ -1,0 +1,38 @@
+Merhele 3 [05.02.2022]
+
+
+
+
+; 6. Javascript və Python arasında 10 bənzər və 10 fərqli cəhət qeyd edin
+    cavab:  benzer cehetler(funkiysa,deyisen,)
+    ferqleri:(python dinamik yazilan prgrm dilidir,javascript  statik yazilan prgrm dilidir||js frontend prgrm dilidir,python backend prgrm dilidir\\\javascript python a nisbeten daha yavas isleyir\\\js bir cox platformada isleyen program yaradir ama python buna malik deyil\\\pythonda deyisen ve deyismeyen data tipleri var\\\python riyazi isleri,data analizi ve  masin oyrenmesi terefinden  destek olur)
+
+
+
+
+; 7. Binary operatorlar nədir və nə zaman istifadə oluna biləcəyini araşdıraraq qeyd edin.
+cavab:  JavaScript-də operatorların onemli hallarından biri setirlerin + işaresi ile birleşdirile bilmesidir.
+    Normalda, + iki ədədi əlavə etmək üçün istifadə olunur, bir tərəfi sətirdirsə, birləşməyə xidmət edir.
+
+
+
+
+; 8. İmplicit və Explicit Type Conversion nədir? Araşdıraraq izah edin
+Sorğularımızda istifadə etdiyimiz cədvəllərin sütun məlumat növlərinə uyğun qiymətləri düzgün təyin etməsək, sorğumuz cədvəldəki mövcud indekslərdən istifadə edə bilməyəcək və sorğumuz yaxşı işləməyəcək və uzun olacaq. vaxt. Bəzi hallarda bizə məlumat tipli tərcümələrə ehtiyac ola bilər. iki növü var, Implicit ve Explicit Conversion 
+Sorğumuzun səmərəli işləməsi üçün açıq-aşkar çevrilmə tələb olunur və biz  implicit conversion’dan qaçmalıyıq.
+ çünki biz dəfələrlə sorğularda "yanlış data tipi dəyər təyini"ndən istifadə etdiyimiz üçün yavaşlıq problemi ilə qarşılaşırıq. (implicit conversion))
+Sorğularımızda istifadə etdiyimiz cədvəllərin sütun məlumat növlərinə uyğun qiymətləri düzgün təyin etməsək, sorğumuz cədvəldəki mövcud indekslərdən istifadə edə bilməyəcək və sorğumuz yaxşı işləməyəcək və uzun olacaq. vaxt. Bəzi hallarda bizə məlumat tipli tərcümələrə ehtiyac ola bilər. iki növü var, Implicit ve Explicit Conversion 
+Sorğumuzun səmərəli işləməsi üçün açıq-aşkar çevrilmə tələb olunur və biz  implicit conversion’dan qaçmalıyıq.
+ çünki biz dəfələrlə sorğularda "yanlış data tipi dəyər təyini"ndən istifadə etdiyimiz üçün yavaşlıq problemi ilə qarşılaşırıq. (implicit conversion))
+
+
+
+
+;  9. Web Server,WSGI,Apache Server,Nginx Server ifadələrini araşdıraraq qısa formada izah edin
+Geniş xüsusiyyətlərə malik olan veb server proqramları həm təhlükəsizlik, həm də performans baxımından saytlarınızı internetdə dərc etməyə imkan verir. Bu xidmət növlərindən ən populyarları Apache, Nginx, Litespeed və Tomcat-dır. Veb saytların böyük əksəriyyəti bu serverlər tərəfindən idarə olunur. Xüsusilə Apache və Nginx ən yaxşı veb server növləri arasındadır.
+
+
+
+
+; 10. SQLite,MySQL,MS-SQL bu mövhumları araşdıraraq izah edin. Bu mövzumlarla SQL arasındakı əlaqəni izah edin
+Bu sistemlərdən ikisi MySQL və SQL Serverdir. Hər ikisi eyni funksiyaya malikdir, lakin bəzi unikal istifadələrə malikdir.
